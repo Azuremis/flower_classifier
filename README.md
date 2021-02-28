@@ -1,6 +1,7 @@
-# flower_classifier
+# Flower classsifier
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Azuremis/flower_classifier/HEAD?urlpath=%2Fvoila%2Frender%2Fflower_categoriser_serve.ipynb)
 
-This is a flower classifier built with fastai library. What kind of flowers can you classify?
+This is a flower classifier built with [fastai](https://docs.fast.ai/) library. What kind of flowers can you classify?
 
 The following flower types are supported:
 
